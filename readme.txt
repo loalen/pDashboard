@@ -1,3 +1,11 @@
-Test commit from machine hp-Pavilion-dv5.
-Test commit from machine hp-Pavilion-dv5 with 2nd.
-Test commit from machine dell-latitude-E6510 1st time.
+Free themes for Bootstrap
+-----------------------
+http://bootswatch.com/
+
+/********************************************************/
+List To Do:
+/********************************************************/
+
+2. Create Bootstrap login page (http://getbootstrap.com/examples/signin/)
+
+1. Apply Slate theme (http://bootswatch.com/)
